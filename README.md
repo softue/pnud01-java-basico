@@ -1,2 +1,2 @@
 # pnud01-java-basico
-Projetos trabalhados no curso de Java Básico para PDPJ-Br
+Projetos trabalhados no Curso Java Básico ofertado pela Unifor para o CNJ com foco na PDPJ-Br.
