@@ -1,4 +1,4 @@
-# Aula 20/10/2023
+# Aula 01 (20/10/2023)
 
 Ontologia é o estudo das coisas como elas são.
 
@@ -57,3 +57,14 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+# Aula 02 (27/10/2023): Estruturas de controle
+
+Fluxo tradicional de execução: linha a linha.
+Linguagem sequencial.
+
+CTRL + /
+
+https://dantas.com/pdpj/
+
+
