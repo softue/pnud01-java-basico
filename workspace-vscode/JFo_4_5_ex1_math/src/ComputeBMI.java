@@ -15,5 +15,7 @@ public class ComputeBMI {
 
         IMC = Math.round(peso / Math.pow(altura, 2) * 703);
         System.out.println(IMC);
+
+        sc.close();
     }   
 }
